@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practic_KPIAP\\Dylyk_A\\zad_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD768CFF-DBA2-478F-ABC4-6219CF240806}|zad_1\\zad_1.csproj|d:\\practic_kpiap\\dylyk_a\\zad_1\\zad_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD768CFF-DBA2-478F-ABC4-6219CF240806}|zad_1\\zad_1.csproj|solutionrelative:zad_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practic_KPIAP\\Dylyk_A\\zad_1\\zad_1\\Program.cs",
+              "RelativeDocumentMoniker": "zad_1\\Program.cs",
+              "ToolTip": "D:\\Practic_KPIAP\\Dylyk_A\\zad_1\\zad_1\\Program.cs",
+              "RelativeToolTip": "zad_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:01:14.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 66,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
