@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Practic_KPIAP\\Dylyk_A\\zad_1\\",
+  "WorkspaceRootPath": "D:\\Practic_KPIAP\\Dylyk_A\\zad1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD768CFF-DBA2-478F-ABC4-6219CF240806}|zad_1\\zad_1.csproj|d:\\practic_kpiap\\dylyk_a\\zad_1\\zad_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FD768CFF-DBA2-478F-ABC4-6219CF240806}|zad_1\\zad_1.csproj|d:\\practic_kpiap\\dylyk_a\\zad1\\zad_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD768CFF-DBA2-478F-ABC4-6219CF240806}|zad_1\\zad_1.csproj|solutionrelative:zad_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Practic_KPIAP\\Dylyk_A\\zad_1\\zad_1\\Program.cs",
+              "DocumentMoniker": "D:\\Practic_KPIAP\\Dylyk_A\\zad1\\zad_1\\Program.cs",
               "RelativeDocumentMoniker": "zad_1\\Program.cs",
-              "ToolTip": "D:\\Practic_KPIAP\\Dylyk_A\\zad_1\\zad_1\\Program.cs",
+              "ToolTip": "D:\\Practic_KPIAP\\Dylyk_A\\zad1\\zad_1\\Program.cs",
               "RelativeToolTip": "zad_1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
